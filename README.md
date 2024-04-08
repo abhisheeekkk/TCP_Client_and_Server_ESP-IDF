@@ -8,3 +8,5 @@ We statically asign IP using esp-idf apis.
 
 TCP_Client sends >1000 bytes of data at 1Hz rate and then prints the ack of TCP_Server.
 TCP_Sever prints recieved data which is over 1000 bytes and then sends ack to TCP_Client.
+
+![Screenshot 2024-04-08 214654](https://github.com/abhisheeekkk/TCP_Client_and_Server_ESP-IDF/assets/91733340/8d78df2a-eb0a-4481-a0ce-699377d4389a)
